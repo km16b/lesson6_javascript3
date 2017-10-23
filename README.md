@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 23, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kayla Macleod
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I accessed specfic elements to build an application to display specific car pictures on my webpage. I also gave the user the ability to change the pictures on their own. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://km16b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about the structures and basic properties of the browser object model (BOM) and the document object model (DOM).
+2. I learned how to create a new element node using the createElement() method of the Document object.
+3. I learned how to access elements by using the tag name method: getElementsByTagName() which returns an array of elements matching a specified tag name.
